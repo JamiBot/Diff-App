@@ -1,0 +1,43 @@
+mat-card {
+}
+
+.left-box, .right-box {
+    width: calc(50% - 64px);
+    margin-bottom: 16px;
+
+    textarea {
+        border: none;
+        resize: none;
+        height: 256px;
+        width: 100%;
+    }
+
+    textarea:focus {
+        border: none;
+        outline: none;
+    }
+}
+
+.left-box {
+    float: left;
+}
+
+.right-box {
+    float: right;
+}
+
+.bottom-box {
+    clear: both;
+}
+
+:host /deep/
+del {
+    text-decoration: none;
+    background: #ffafaf;
+}
+
+:host /deep/
+ins {
+    text-decoration: none;
+    background: #b6ffaf;
+}
