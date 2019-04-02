@@ -1,4 +1,4 @@
-# Angular Material Autocomplete Example
+# Diff App
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Let's Build A Diff App](https://youtu.be/a_5KHpSumi4).
 
