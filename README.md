@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Let's Build A Diff App](https://youtu.be/a_5KHpSumi4).
 
-[![Let's Build A Diff App](https://img.youtube.com/vi/a_5KHpSumi4/0.jpg)](https://youtu.be/a_5KHpSumi4)
+[![Let's Build A Diff App](https://img.youtube.com/vi/a_5KHpSumi4/mqdefault.jpg)](https://youtu.be/a_5KHpSumi4)
 
 A simple app that compares the difference between two text inputs.
 
